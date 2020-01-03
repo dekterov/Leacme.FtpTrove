@@ -4,6 +4,7 @@
 
 This application features the ability to download and upload files from an FTP server.
 
+![index](https://user-images.githubusercontent.com/6654513/71702116-df1a4900-2d8a-11ea-8858-7f61a1d33bde.png)
 ![][image_screenshot]
 
 ## Application Compiling
